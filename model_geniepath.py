@@ -3,8 +3,8 @@ import torch.nn.functional as F
 from torch_geometric.nn import GATConv
 
 
-dim = 128
-lstm_hidden = 128
+dim = 256
+lstm_hidden = 256
 heads = 1
 layer_num = 4
 
