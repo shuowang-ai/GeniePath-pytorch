@@ -6,10 +6,8 @@ from torch_geometric.data import DataLoader
 from sklearn import metrics
 
 # from model_gat import GAT as Net
-from model_geniepath import GeniePath as Net
-# from model_geniepath import GeniePathRes as Net
-# from model_geniepath import GeniePathLazy as Net
-# from model_geniepath import GeniePathLazyRes as Net
+# from model_geniepath import GeniePath as Net
+from model_geniepath import GeniePathLazy as Net
 
 path = osp.join(osp.dirname(osp.realpath(__file__)), 'data', 'PPI')
 train_dataset = PPI(path, split='train')
