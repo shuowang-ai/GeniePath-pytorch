@@ -5,7 +5,6 @@ from torch_geometric.datasets import PPI
 from torch_geometric.data import DataLoader
 from sklearn import metrics
 
-# from model_gat import GAT as Net
 # from model_geniepath import GeniePath as Net
 from model_geniepath import GeniePathLazy as Net
 
