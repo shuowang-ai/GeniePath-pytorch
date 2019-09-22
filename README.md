@@ -45,8 +45,8 @@ python ppi_geniepath.py
 
 - [x] Finish the rough implementation, f1_score: 0.9709
  for GeniePath,  0.9762 for GeniePathLazy (dim = 256, lstm_hidden = 256). 
-- [ ] Tune the model
+- [x] Tune the model
 
 
 ## Reference
-- [pytorch_geometric/examples/ppi.py](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ppi.py)
+- Contribute to [pytorch_geometric/examples/ppi.py](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ppi.py)
