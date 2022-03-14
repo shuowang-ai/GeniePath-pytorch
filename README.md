@@ -49,4 +49,4 @@ python ppi_geniepath.py
 
 
 ## Reference
-- Contribute to [pytorch_geometric/examples/ppi.py](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ppi.py)
+- Contribute to [pytorch_geometric/examples/geniepath.py](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/geniepath.py)
