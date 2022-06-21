@@ -1,4 +1,4 @@
-numpy==1.16.2
+numpy==1.22.0
 torch==1.0.1.post2
 torch-cluster==1.2.4
 torch-geometric==1.1.2
