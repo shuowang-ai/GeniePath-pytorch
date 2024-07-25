@@ -1,5 +1,5 @@
 numpy==1.16.2
-torch==1.0.1.post2
+torch==2.2.0
 torch-cluster==1.2.4
 torch-geometric==1.1.2
 torch-scatter==1.1.2
